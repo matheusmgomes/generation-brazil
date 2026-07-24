@@ -1,3 +1,3 @@
-SELECT OrderDate, COUNT() AS OrderCount
+SELECT OrderDate, COUNT(OrderId) AS OrderCount
 FROM Orders
-GROUP BY ;
+GROUP BY OrderDate;

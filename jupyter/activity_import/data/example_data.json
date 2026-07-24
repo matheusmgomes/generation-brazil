@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "name": "Alice",
+            "age": 28,
+            "department": {
+                "name": "Engineering",
+                "role": "Developer"
+            }
+        },
+        {
+            "name": "Bob",
+            "age": 34,
+            "department": {
+                "name": "Sales",
+                "role": "Manager"
+            }
+        },
+        {
+            "name": "Charlie",
+            "age": 45,
+            "department": {
+                "name": "HR",
+                "role": "Recruiter"
+            }
+        }
+    ]
+}
